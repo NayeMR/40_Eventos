@@ -1,0 +1,17 @@
+.CGris{
+	background: #D3D3D3;
+}
+hr{
+	width: 100%;
+	height: 5px;
+	color: black;
+}
+h3{
+	font-size: 1em;
+}
+textarea{
+	resize:none;
+	overflow-y: scroll;
+	height: 100px;
+    max-height: 100px;
+}

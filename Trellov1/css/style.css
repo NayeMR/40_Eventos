@@ -1,0 +1,23 @@
+.CGris{
+	background: gray;
+}
+body{
+	background: #F5DEB3;
+}
+.div{
+	background: gray;
+}
+.textarea{
+	display:block;
+}
+.inputUno{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+}
+ul>li{
+	list-style:none;
+	background: #DCDCDC;
+
+}

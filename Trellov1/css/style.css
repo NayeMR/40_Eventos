@@ -18,6 +18,8 @@ body{
 }
 ul>li{
 	list-style:none;
-	background: #DCDCDC;
+}
 
+.display{
+	display: inline-block;
 }
